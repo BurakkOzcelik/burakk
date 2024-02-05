@@ -1,0 +1,78 @@
+{
+  "posCihaziVerileri": [
+    {
+      "tarih": "2024-01-19",
+      "saat": "14:30",
+      "fis_no": "0001",
+      "urun": "Test1111",
+      "TOPKDV": 2.5,
+      "TOPLAM": 29.5
+    },
+    {
+      "tarih": "2024-01-19",
+      "saat": "15:15",
+      "fis_no": "0002",
+      "urun": "Meyve",
+      "TOPKDV": 3.0,
+      "TOPLAM": 35.0
+    },
+    {
+      "tarih": "2024-01-20",
+      "saat": "12:45",
+      "fis_no": "0003",
+      "urun": "Yiyecek",
+      "TOPKDV": 1.5,
+      "TOPLAM": 18.5
+    },
+    {
+      "tarih": "2024-01-20",
+      "saat": "16:30",
+      "fis_no": "0004",
+      "urun": "Sigorta",
+      "TOPKDV": 375.0,
+      "TOPLAM": 2125.0
+    },
+    {
+      "tarih": "2024-01-21",
+      "saat": "09:00",
+      "fis_no": "0005",
+      "urun": "Atıştırmalık",
+      "TOPKDV": 10.0,
+      "TOPLAM": 120.0
+    },
+    {
+      "tarih": "2024-01-21",
+      "saat": "13:20",
+      "fis_no": "0006",
+      "urun": "Mama",
+      "TOPKDV": 1.0,
+      "TOPLAM": 12.0
+    },
+    {
+      "tarih": "2024-01-21",
+      "saat": "15:03",
+      "fis_no": "0007",
+      "urun": "Saglik",
+      "TOPKDV": 40.0,
+      "TOPLAM": 440.0
+    },
+    {
+      "tarih": "2024-01-22",
+      "saat": "08:39",
+      "fis_no": "0008",
+      "urun": "Yedek Parca",
+      "TOPKDV": 300.0,
+      "TOPLAM": 3300.0
+    },
+    {
+      "tarih": "2024-01-22",
+      "saat": "14:22",
+      "fis_no": "0009",
+      "urun": "Ilac",
+      "TOPKDV": 11.0,
+      "TOPLAM": 121.0
+    }
+    
+  ]
+}
+
